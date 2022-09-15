@@ -2,7 +2,7 @@
 
 ## Screenshots
 
-![Email Template](.img/SU_Template.png)
+![Email Template](./img/SU_Template.png)
 
 
 ## Features
