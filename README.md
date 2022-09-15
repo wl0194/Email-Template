@@ -2,14 +2,11 @@
 
 ## Screenshots
 
-![Email Template](./homepapng)
+![Email Template](./SU_Template.png)
 
-![Card Graphix Creation Page](./cardpage.png)
 
 ## Features
 
-* Apollo
-* Express
-* JavaScript
-* React JS
-* Mongoose
+* HTML
+* CSS
+* Figma
